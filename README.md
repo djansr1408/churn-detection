@@ -33,3 +33,4 @@ This notebook consist of a few parts and each of them is followed with correspon
 - ```Feature importances```: Visualization of feature importances of the weighted logistic regression model.
 - ```TSNE Approach```: Customer visualization in 2d using TSNE model.
 - ```Churners good and bad examples```: Manual inspection of False Positive, False Negative and True Positive examples using [LIME](https://github.com/marcotcr/lime)
+- ```Conclusion```
