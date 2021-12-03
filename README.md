@@ -1,7 +1,7 @@
 # Churn detection on telco customers dataset
 
 The repository contains notebook and data for building, training and evaluating ML classification model for churn detection.
-Download it using *git clone* command and navigate there:
+Download it using *git clone* command and navigate into the main directory:
 ```python
 git clone https://github.com/djansr1408/churn-detection.git
 cd churn-detection
